@@ -8,6 +8,7 @@ As an intern, I am assigned various small projects so that I have understanding 
 ### JSON Schema
 
 It is nothing but the **blueprint** of the data and its nested contents.
+
 `Please refer the file schema.js for the demo`
 
 After the preparation of the schema, it is validated against the prescribed constraints set in the schema. Various libraries are available for this purpose, but I used **AJV Library**. 
@@ -41,7 +42,7 @@ I used it in a form where user enters the input and continuous validation of the
 
 ##### Demo
 
-![image]()
+![image](demo.png)
 
 ### Conclusion
 
